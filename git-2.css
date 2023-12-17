@@ -1,17 +1,28 @@
-.body {font-family: 'Abril Fatface', cursive;
-    font-size: 48px;
-    display: flexbox;
+
+ 
     
-    }
+
     .title {
         font-family: 'Abril Fatface', cursive;
         font-size: 48px; 
         caret-color: aquamarine;
-        flex-direction: center;
+ 
     }
     .text {
         font-family: 'Abril Fatface', cursive;
         font-size: 48px; 
         caret-color: aquamarine;
-        flex-direction: center;
+        text-align: center;
+    }
+
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%; /* Set the height of the body to the full viewport height */
+        margin: 0;
+    }
+
+    .container {
+        text-align: center;
     }
