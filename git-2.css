@@ -23,6 +23,7 @@
         justify-content: center;
         height: 100%; /* Set the height of the body to the full viewport height */
         margin: 0;
+     background-color: #B33771;
     }
 
     .container {
