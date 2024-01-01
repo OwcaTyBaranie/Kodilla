@@ -1,4 +1,4 @@
-$ npm run test:html
+$ npm exec html-validate *.html
 
 
 
