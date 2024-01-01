@@ -1,4 +1,4 @@
-$ npm install --save-dev html-validate
+$ npm run test:html
 
 
 
